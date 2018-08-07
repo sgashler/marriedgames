@@ -65,7 +65,7 @@
                             },
                             "text": "Check out Live DEMO",
                             "href": {
-                                "url": "https://marriedgames.org/login",
+                                "url": "https://app.marriedgames.org/login",
                                 "fresh": "true"
                             }
                         },
