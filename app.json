@@ -65,8 +65,8 @@
                             },
                             "text": "Check out Live DEMOz",
                             "href": {
-                                "url": "http://google.com",
-                                "fresh": "true"
+                                "url": "https://app.marriedgames.org/login",
+                                "view": "web"
                             }
                         },
                         {
